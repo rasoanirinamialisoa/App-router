@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <main>
       <h2>
-        <a>List blog</a>
+        <a>Lists blog</a>
       </h2>
       <ul>
         {blogs.map((blog) => (

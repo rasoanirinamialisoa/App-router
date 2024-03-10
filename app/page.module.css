@@ -228,3 +228,16 @@
     transform: rotate(0deg);
   }
 }
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.row div {
+  padding: 50px;
+}
+
+.padding {
+  padding: 10px;
+}
